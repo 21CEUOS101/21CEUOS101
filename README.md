@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Inventory Management System](https://github.com/21CEUOS101/IMS)
 
-- 🌱 I’m currently learning **React , Flutter**
+- 🌱 I’m currently learning **Machine Learning , MicroServices**
 
-- 💬 Ask me about **Java , Spring Boot**
+- 💬 Ask me about **Java , Spring Boot , MERN Stack**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashish290104/**
 
