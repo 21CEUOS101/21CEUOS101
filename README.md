@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Machine Learning** and **Microservices**.
 - 💬 Ask me about **Java**, **Spring Boot**, and the **MERN Stack**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashish290104/)
-- 💼 [My Resume](https://github.com/21CEUOS101/Resume/blob/main/Final_Resume.pdf)
+- 💼 [My Resume](https://github.com/21CEUOS101/Resume/blob/main/Resume_v1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
