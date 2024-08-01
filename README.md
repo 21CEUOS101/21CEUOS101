@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ashish290104" target="_blank">
-    <img src="linkedIn_logo.jpeg" alt="ashish290104" height="50" width="50" />
+    <img src="linkedIn_logo.jpg" alt="ashish290104" height="50" width="50" />
   </a>
   <a href="https://medium.com/@prajapatiashish40567" target="_blank">
     <img src="medium_logo.jpeg" alt="ashish290104" height="50" width="50" />
