@@ -11,15 +11,12 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashish290104/)
 - 💼 [My Resume](https://github.com/21CEUOS101/Resume/blob/main/Resume_v1.pdf)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/ashish290104" target="_blank">
-    <img src="linkedIn_logo.jpeg" alt="ashish290104" height="30" width="40" style="border-radius: 50%;" />
+    <img src="linkedIn_logo.jpeg" alt="ashish290104" height="50" width="50" />
   </a>
   <a href="https://medium.com/@prajapatiashish40567" target="_blank">
-    <img src="medium_logo.jpeg" alt="ashish290104" height="30" width="40" style="border-radius: 50%;" />
+    <img src="medium_logo.jpeg" alt="ashish290104" height="50" width="50" />
   </a>
 </p>
-
-
-
