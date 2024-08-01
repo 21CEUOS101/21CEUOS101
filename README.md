@@ -14,12 +14,12 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/ashish290104" target="_blank">
-    <img align="center" src="linkedIn_logo.jpeg" alt="ashish290104" height="30" width="40" />
+    <img src="linkedIn_logo.jpeg" alt="ashish290104" height="30" width="40" style="border-radius: 50%;" />
   </a>
-  <!-- Medium -->
   <a href="https://medium.com/@prajapatiashish40567" target="_blank">
-    <img align="center" src="medium_logo.png" alt="ashish290104" height="30" width="40" />
+    <img src="medium_logo.jpeg" alt="ashish290104" height="30" width="40" style="border-radius: 50%;" />
   </a>
 </p>
+
 
 
