@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Machine Learning** and **Python**.
 - 💬 Ask me about **Java**, **Spring Boot**, and the **MERN Stack**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashish290104/)
-- 💼 [My Resume](https://github.com/21CEUOS101/Resume/blob/main/Resume_v1.pdf)
+- 💼 [My Resume](1_Aug_2024.pdf)
 
 ---
 
